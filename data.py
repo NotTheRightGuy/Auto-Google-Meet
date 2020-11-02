@@ -1,5 +1,5 @@
-email = ''
-password = ''
+email = 'yourdummyaccount@gmail.com'    #Those who don't know python
+password = 'Whatever your password is'  #Please don't mess with brackets and syntax, just replace the terms
 
 #You can also remove the dashes from the code, I was just a little lazy
 code = ['qpr-gncp-vxa','rqw-kpoc-hwo','gwy-vcer-pju','wfi-fjrb-oaf','abt-vbiw-wgs'] #Add more code if you have more classes
