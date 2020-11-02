@@ -24,7 +24,7 @@ Python 3.8+
 
 ## Installation
 Run the following command in your command prompt to install the required module
->>>pip install selenium
+>>>pip install selenium<<<
 Edit the data.py with your prefered editor and edit the following things
 email : The email you will be using to sign in 
 password : As the name suggest
